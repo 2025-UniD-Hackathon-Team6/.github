@@ -1,6 +1,6 @@
 # 🚀 CarYou (캐리유)
 
-<img src="https://github.com/user-attachments/assets/poster.png" width="480"/>
+<img width="1524" height="704" alt="Image" src="https://github.com/user-attachments/assets/b20f38b6-d00b-4042-a961-a1d60e801e0e" />
 
 >AI 기반 취업 준비생 케어 플랫폼  
 >“당신의 컨디션에 맞춘 개인화 커리어 성장 파트너”
