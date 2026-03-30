@@ -91,14 +91,10 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 🔐 초기 화면 (회원가입 / 직무 설정)
 
-<img src="https://github.com/user-attachments/assets/signup1.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/signup2.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/signup3.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/signup4.png" width="700"/>
-<br>
+<img width="1919" height="921" alt="Image" src="https://github.com/user-attachments/assets/bb16d5c9-9923-490d-bd7e-ec63dab12b38" /><br>
+<img width="1899" height="923" alt="Image" src="https://github.com/user-attachments/assets/0e7d0038-cce3-41bb-947e-46ea01d9f704" /><br>
+<img width="1893" height="921" alt="Image" src="https://github.com/user-attachments/assets/0c593089-8332-4d51-af7b-017a0cc4baeb" /><br>
+<img width="1919" height="921" alt="Image" src="https://github.com/user-attachments/assets/2c6dec8c-14b8-419d-85bd-dcbafca5d8c6" /><br>
 
 - 관심 직무 선택  
 - 개인화 시작 단계
@@ -107,14 +103,10 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 🏠 메인 페이지
 
-<img src="https://github.com/user-attachments/assets/main1.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/main2.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/main3.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/main4.png" width="700"/>
-<br>
+<img width="1895" height="923" alt="Image" src="https://github.com/user-attachments/assets/8b71b0c7-f0cb-4248-833f-5c6c2ed6a4b8" /><br>
+<img width="1897" height="923" alt="Image" src="https://github.com/user-attachments/assets/429ed50b-0d50-46ea-a0d3-26e82df704aa" /><br>
+<img width="1893" height="913" alt="Image" src="https://github.com/user-attachments/assets/f1d255ba-8a68-45a0-8cba-753926663d8b" /><br>
+<img width="1891" height="921" alt="Image" src="https://github.com/user-attachments/assets/b9b450ca-e0de-4cbe-a244-a672889c05be" /><br>
 
 - 오늘의 키워드 미션  
 - 3분 산업 리포트  
@@ -125,14 +117,10 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 📊 마이페이지
 
-<img src="https://github.com/user-attachments/assets/mypage1.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/mypage2.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/mypage3.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/mypage4.png" width="700"/>
-<br>
+<img width="1893" height="923" alt="Image" src="https://github.com/user-attachments/assets/aab65e50-e238-495e-bc51-285290ffe0e5" /><br>
+<img width="1893" height="919" alt="Image" src="https://github.com/user-attachments/assets/eab9215f-bbb3-44a8-b0c7-f58e65f062aa" /><br>
+<img width="1893" height="923" alt="Image" src="https://github.com/user-attachments/assets/4399dfd7-829e-4cea-bca6-7d605f30e685" /><br>
+<img width="1917" height="923" alt="Image" src="https://github.com/user-attachments/assets/883135a9-ffbb-471f-b190-a1fbeaf2cae8" /><br>
 
 - 캘린더 기반 활동 기록  
 - 키워드 & 공고 아카이빙  
@@ -142,10 +130,8 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 💬 커뮤니티
 
-<img src="https://github.com/user-attachments/assets/community1.png" width="700"/>
-<br>
-<img src="https://github.com/user-attachments/assets/community2.png" width="700"/>
-<br>
+<img width="1895" height="923" alt="Image" src="https://github.com/user-attachments/assets/a7166972-f4ca-4d2f-8b4d-05e4e3671a05" /><br>
+<img width="1893" height="923" alt="Image" src="https://github.com/user-attachments/assets/53ec87af-d96c-4160-9163-cebc0f0ea464" /><br>
 
 - 게시판 CRUD  
 - 취업 정보 공유
