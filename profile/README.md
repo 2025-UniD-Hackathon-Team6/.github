@@ -4,7 +4,7 @@ AI 기반 취업 준비생 케어 플랫폼
 
 “당신의 컨디션에 맞춘 개인화 커리어 성장 파트너”
 
-<img src="./docs/poster.png" width="480"/>
+<img src="https://github.com/user-attachments/assets/poster.png" width="480"/>
 
 <br><br><br>
 
@@ -91,13 +91,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 🔐 초기 화면 (회원가입 / 직무 설정)
 
-<img src="./docs/signup1.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/signup1.png" width="700"/>
 <br>
-<img src="./docs/signup2.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/signup2.png" width="700"/>
 <br>
-<img src="./docs/signup3.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/signup3.png" width="700"/>
 <br>
-<img src="./docs/signup4.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/signup4.png" width="700"/>
 <br>
 
 - 관심 직무 선택  
@@ -107,13 +107,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 🏠 메인 페이지
 
-<img src="./docs/main1.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/main1.png" width="700"/>
 <br>
-<img src="./docs/main2.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/main2.png" width="700"/>
 <br>
-<img src="./docs/main3.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/main3.png" width="700"/>
 <br>
-<img src="./docs/main4.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/main4.png" width="700"/>
 <br>
 
 - 오늘의 키워드 미션  
@@ -125,13 +125,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 📊 마이페이지
 
-<img src="./docs/mypage1.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/mypage1.png" width="700"/>
 <br>
-<img src="./docs/mypage2.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/mypage2.png" width="700"/>
 <br>
-<img src="./docs/mypage3.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/mypage3.png" width="700"/>
 <br>
-<img src="./docs/mypage4.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/mypage4.png" width="700"/>
 <br>
 
 - 캘린더 기반 활동 기록  
@@ -142,9 +142,9 @@ AI 기반 커리어 관리 플랫폼입니다.
 
 ### 💬 커뮤니티
 
-<img src="./docs/community1.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/community1.png" width="700"/>
 <br>
-<img src="./docs/community2.png" width="700"/>
+<img src="https://github.com/user-attachments/assets/community2.png" width="700"/>
 <br>
 
 - 게시판 CRUD  
