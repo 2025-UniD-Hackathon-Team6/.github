@@ -1,10 +1,9 @@
 # 🚀 CarYou (캐리유)
 
-AI 기반 취업 준비생 케어 플랫폼  
-
-“당신의 컨디션에 맞춘 개인화 커리어 성장 파트너”
-
 <img src="https://github.com/user-attachments/assets/poster.png" width="480"/>
+
+>AI 기반 취업 준비생 케어 플랫폼  
+>“당신의 컨디션에 맞춘 개인화 커리어 성장 파트너”
 
 <br><br><br>
 
