@@ -92,9 +92,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 ### 🔐 초기 화면 (회원가입 / 직무 설정)
 
 <img src="./docs/signup1.png" width="700"/>
+<br>
 <img src="./docs/signup2.png" width="700"/>
+<br>
 <img src="./docs/signup3.png" width="700"/>
+<br>
 <img src="./docs/signup4.png" width="700"/>
+<br>
 
 - 관심 직무 선택  
 - 개인화 시작 단계
@@ -104,9 +108,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 ### 🏠 메인 페이지
 
 <img src="./docs/main1.png" width="700"/>
+<br>
 <img src="./docs/main2.png" width="700"/>
+<br>
 <img src="./docs/main3.png" width="700"/>
+<br>
 <img src="./docs/main4.png" width="700"/>
+<br>
 
 - 오늘의 키워드 미션  
 - 3분 산업 리포트  
@@ -118,9 +126,13 @@ AI 기반 커리어 관리 플랫폼입니다.
 ### 📊 마이페이지
 
 <img src="./docs/mypage1.png" width="700"/>
+<br>
 <img src="./docs/mypage2.png" width="700"/>
+<br>
 <img src="./docs/mypage3.png" width="700"/>
+<br>
 <img src="./docs/mypage4.png" width="700"/>
+<br>
 
 - 캘린더 기반 활동 기록  
 - 키워드 & 공고 아카이빙  
@@ -131,7 +143,9 @@ AI 기반 커리어 관리 플랫폼입니다.
 ### 💬 커뮤니티
 
 <img src="./docs/community1.png" width="700"/>
+<br>
 <img src="./docs/community2.png" width="700"/>
+<br>
 
 - 게시판 CRUD  
 - 취업 정보 공유
